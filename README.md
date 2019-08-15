@@ -15,4 +15,4 @@ AR-related API work is occurring in various [Immersive Web CG/WG repos](https://
 
 All work in the Immersive Community and Working Groups is supported by this [Code of Conduct](https://github.com/immersive-web/community-resources/blob/master/CODE_OF_CONDUCT.md).
 
-Please read and undestand the [license](LICENSE.md) before contributing.
+Please read and understand the [license](LICENSE.md) before contributing.
