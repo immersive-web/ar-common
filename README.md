@@ -12,6 +12,7 @@ AR-related API work is occurring in various [Immersive Web CG/WG repos](https://
 - [anchors](https://github.com/immersive-web/anchors)
 - [geo-alignment](https://github.com/immersive-web/geo-alignment)
 - [dom-overlays](https://github.com/immersive-web/dom-overlays)
+- [camera access and support for computer-vision](https://github.com/immersive-web/computer-vision/)
 
 All work in the Immersive Community and Working Groups is supported by this [Code of Conduct](https://github.com/immersive-web/community-resources/blob/master/CODE_OF_CONDUCT.md).
 
