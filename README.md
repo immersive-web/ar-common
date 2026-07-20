@@ -1,3 +1,7 @@
+# This repository has been archived
+
+Use [proposals](https://github.com/immersive-web/proposals/) repository of the Immersive Web groups (CG) for new incubation or new idea.
+
 # Cross-API Topics for Augmented Reality
 
 This is a repository for discussing and documenting information about common aspects of augmented reality that effect both W3C standards work and the use of those standards.
